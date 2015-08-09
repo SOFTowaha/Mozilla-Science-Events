@@ -4,7 +4,7 @@
 ####No of Participants: 20
 ####Details:
 
-* The goal of the event was to acknowledge the participants about Git;
+* The goal of the event was to acknowledge the participants about Git and inspire them to use Git for their project;
 * [Shahjahan Jewel](https://mozillians.org/en-US/u/cep.jewel/), the Head of Ideas at [Technext](https://github.com/technext) was the main speaker;
 * Participants were told how they can be benifitted by using Git;
 * They were inspired to use the command line; 
