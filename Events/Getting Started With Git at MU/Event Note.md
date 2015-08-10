@@ -21,8 +21,10 @@
 ####Event Photos: [Flickr]()
 ####Event Outcome:
 
-* Participants knew about Mozilla Science and Open Science ;
-* They learned about Git!=Github ; 
+* Participants could know about Mozilla Science and Open Science ;
+* They learned Git!=Github ; 
 * They were inspired to use Git for future projects; 
+* We talked about next Mozilla Science Event; 
+
 
 
